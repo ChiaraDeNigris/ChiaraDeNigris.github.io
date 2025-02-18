@@ -11,7 +11,7 @@ headless: false
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Publications'
 subtitle:
 
 # Date format
@@ -26,12 +26,13 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+    date_start: '2022-09-25'
+    #description: ''
+    #organization: Coursera
+    #organization_url: https://www.coursera.org
+    title:  Evaluating text-to-text framework for topic and style classification of italian texts.NL4AI 2022 - 21th International Conference of the Italian Association for Artificial Intelligence (AI* IA 2022)
+    url: https://scholar.google.nl/citations?view_op=view_citation&hl=it&user=ZlrcXiAAAAAJ&citation_for_view=ZlrcXiAAAAAJ:u5HHmVD_uO8C
+    
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
@@ -40,14 +41,7 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+
 
 design:
   columns: '1'

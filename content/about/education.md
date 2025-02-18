@@ -41,7 +41,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2021-07-16'
     description: |2-
-        *Graduated with 110/110 cum laude
+        * Graduated with 110/110 cum laude
         * Thesis: Visual question answering for Italian: Experiments with an automatic translation system.
 
 design:
