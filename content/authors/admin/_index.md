@@ -68,4 +68,4 @@ social:
 Data Scientist with a deep interest in innovation and Artificial Intelligence, constantly exploring new ways to leverage AI for meaningful solutions. With a growing passion for User Experience Design, I am driven by the challenge of creating intuitive interactions that bridge the gap between technology and users!
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_DeNigrisChiara.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.

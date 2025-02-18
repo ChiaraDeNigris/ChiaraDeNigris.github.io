@@ -49,6 +49,14 @@ experience:
         * Implementation of an advanced analytics system leveraging Generative AI
         * Prompt engenieering
 
+  - title: Junior Research Fellow
+    company: University of Pisa
+    company_url: ''
+    #company_logo: org-x
+    location: Pisa (Italy)
+    date_start: '2022-10-01'
+    date_end: '2023-10-01'
+    description:  PNRR italian project “Giustizia AGILE”. Design and developement of Natural Language Processing solutions for the digitalization of courts
 design:
   columns: '1'
 ---
