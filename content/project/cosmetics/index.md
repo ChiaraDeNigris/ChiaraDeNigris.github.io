@@ -4,5 +4,5 @@ summary: For my master’s thesis, I leveraged Generative Large Language Models 
 tags: 
   - DSAI
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/ChiaraDeNigris/GPT4FeaturesExtraction.git
 ---
