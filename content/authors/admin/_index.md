@@ -20,6 +20,7 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: Data scientist with interst in innovation, Artificial Intelligence and a growing passion for user experience design 
 
+
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
@@ -45,12 +46,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:chiaradenigriss@gmail.com
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/chiara-de-nigris-b46872233/ 
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +65,7 @@ social:
 #email: ""
 ---
 
-Data scientist with interst in innovation, Artificial Intelligence and a growing passion for user experience design.
+Data Scientist with a deep interest in innovation and Artificial Intelligence, constantly exploring new ways to leverage AI for meaningful solutions. With a growing passion for User Experience Design, I am driven by the challenge of creating intuitive interactions that bridge the gap between technology and users!
 
-[...]
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_DeNigrisChiara.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
