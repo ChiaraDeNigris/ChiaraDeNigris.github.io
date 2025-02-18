@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: Data Science & AI
-      tag: DS&AI
+      tag: DSAI
     - name: User Experience Design
       tag: UX
 
