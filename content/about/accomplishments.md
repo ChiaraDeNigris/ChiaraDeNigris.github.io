@@ -35,7 +35,7 @@ item:
 
   - #certificate_url: https://www.edx.org
     #date_end: ''
-    date_start: '2025-01-01'
+    date_start: '2024-12-01'
     description: Annotating legal documents with rhetorical structures is challenging and time-consuming, especially when done entirely manually. This paper explores two methodologies to achieve optimal results. First, a human-in-the-loop approach is introduced, involving a multi-stage annotation process where domain experts iteratively review and refine datasets. To enhance interpretability, explainable AI (XAI) models are incorporated, providing insights into decision-making processes.  Second, a LLM-in-the-loop method leverages large language models to assist experts by automating repetitive annotation tasks under human supervision. Further research is proposed to develop interaction models that effectively balance automation with human guidance and accountability.
     #organization: edX
     #organization_url: https://www.edx.org
