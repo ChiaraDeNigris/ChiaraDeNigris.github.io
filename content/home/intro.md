@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hello! I'm Chiara, a data scientist and AI R&D with passion for innovation and technology.
+Hello! I'm Chiara, a data scientist and AI RandD with passion for innovation and technology.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below.

@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Data Science & AI
+    - name: Data Science and AI
       tag: DSAI
     - name: User Experience Design
       tag: UX
