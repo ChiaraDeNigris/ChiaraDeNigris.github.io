@@ -1,6 +1,6 @@
 ---
 title: Enhaning Business experience through Generative AI
-summary: This ismy master thesis project,which I developed working as an intern in a consulancy firm. I used Generative Large Language Models as tools for extracting features from customer service chats in a corporate set ting, integrating models from the GPT family into an advanced analytics architecture. The the incorporation of Language Models into a business environment has been particularly challenging, probing the delicate balance between expenses, efficiency, and consistency. 
+summary: For my master’s thesis, I leveraged Generative Large Language Models (GPT-4) to extract key features from customer service chats in a corporate setting, enhancing both customer experience and business value.
 tags: 
   - DSAI
 date: 2022-01-01
