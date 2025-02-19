@@ -1,5 +1,5 @@
 ---
-title: Data Science University projects
+title: Data Science projects
 summary: Different projects and assignments implemented during my master degree.
 tags: 
   - DSAI

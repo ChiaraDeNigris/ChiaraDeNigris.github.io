@@ -1,6 +1,6 @@
 ---
 title: BERT and IT5 classification experiments
-summary: Experiment partially developed for text analytics exam and then deepen for further analysis. [Link to paper](https://scholar.google.nl/citations?view_op=view_citation&hl=it&user=ZlrcXiAAAAAJ&citation_for_view=ZlrcXiAAAAAJ:u5HHmVD_uO8C)
+summary: Experiment partially developed for text analytics exam and then deepen for further analysis. [Link to paper.](https://scholar.google.nl/citations?view_op=view_citation&hl=it&user=ZlrcXiAAAAAJ&citation_for_view=ZlrcXiAAAAAJ:u5HHmVD_uO8C)
 tags: 
   - DSAI
 date: 2022-01-01
