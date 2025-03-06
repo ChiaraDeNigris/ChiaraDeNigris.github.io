@@ -28,7 +28,7 @@ experience:
     #company_logo: org-x
     location: Pisa (Italy)
     date_start: '2021-09-01'
-    date_end: '2022-02-23'
+    date_end: '2024-02-23'
     description: |2-
         * Graduated with 110/110 cum laude
         * Thesis: An advanced analytics framework for customer care analysis: exploring business enhancement through LLMs
